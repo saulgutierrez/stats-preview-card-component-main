@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [stats-preview-card-component](https://github.com/saulgutierrez/stats-preview-card-component-main)
+- Live Site URL: [stats-preview-card-component](https://unique-semolina-384ed2.netlify.app/)
 
 ## My process
 
@@ -65,8 +65,7 @@ How to use semantic HTML
 ## Author
 
 - Website - [Saúl Gutiérrez](https://sauladai.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@saulgutierrez](https://www.frontendmentor.io/profile/saulgutierrez)
+- Frontend Mentor - [@saulgutierrez](https://www.frontendmentor.io/profile/saulgutierrez)
 
 ## Acknowledgments
 
